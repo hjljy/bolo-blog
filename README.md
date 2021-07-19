@@ -1,15 +1,17 @@
-<p align="center"><img alt="海加尔金鹰" src="https://pic.stackoverflow.wiki/uploadImages/182/139/67/22/2021/06/10/12/13/eec64e43-f17c-45e3-9960-430bfc883c9d.png"></p><h2 align="center">
+<p align="center"><img alt="海加尔金鹰" src="https://www.hjljy.cn/favicon.png"></p><h2 align="center">
 海加尔金鹰
 </h2>
 
 <h4 align="center">一个菜鸟程序员的踩坑日记</h4>
 <p align="center"><a title="海加尔金鹰" target="_blank" href="https://github.com/hjljy/bolo-blog"><img src="https://img.shields.io/github/last-commit/hjljy/bolo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/hjljy/bolo-blog"><img src="https://img.shields.io/github/repo-size/hjljy/bolo-blog.svg?style=flat-square"></a>
-<a title="Bolo Version" target="_blank" href="https://github.com/adlered/bolo-solo"><img src="https://img.shields.io/badge/bolo-v2.4 稳定版-f1e05a.svg?style=flat-square&color=blueviolet"></a>
+<a title="Bolo Version" target="_blank" href="https://github.com/adlered/bolo-solo"><img src="https://img.shields.io/badge/bolo-v2.5 稳定版-f1e05a.svg?style=flat-square&color=blueviolet"></a>
 <a title="Hits" target="_blank" href="https://github.com/88250/hits"><img src="https://hits.b3log.org/hjljy/bolo-blog.svg"></a></p>
 
 ### 最新
 
+* [Oauth2 自定义异常信息返回（springboot无法全局捕获invalid_client，unauthorized，invalid_token）](https://www.hjljy.cn/articles/2021/06/25/1624610094533.html)
+* [Vue3.0开发之整合vue-admin-template模板](https://www.hjljy.cn/articles/2021/06/23/1624418085143.html)
 * [Vue3.0开发入门之vue.config.js和.env配置文件的说明和使用](https://www.hjljy.cn/articles/2021/06/10/1623318091354.html)
 * [Linux下Docker的安装，开机自启动，设置国内镜像，安装Nginx，映射Nginx文件](https://www.hjljy.cn/articles/2021/06/08/1623136283806.html)
 * [Docker容器无法链接宿主机上的Mysql数据库](https://www.hjljy.cn/articles/2021/06/04/1622788581523.html)
@@ -28,8 +30,6 @@
 * [mybatis-plus max函数，sum函数的使用](https://www.hjljy.cn/articles/2021/02/19/1613730765652.html)
 * [VUEJS前端知识点BUG资料博文(不断更新当中)](https://www.hjljy.cn/articles/2021/01/08/1610099724900.html)
 * [LocalDateTime和时间戳，Date，字符串互转](https://www.hjljy.cn/articles/2021/01/07/1610016249176.html)
-* [Springboot2.x处理Long类型返回前端精度丢失以及LocalDateTime统一返回时间戳](https://www.hjljy.cn/articles/2021/01/06/1609924130412.html)
-* [2020年终-愿所有的苦来年不再。](https://www.hjljy.cn/articles/2020/12/31/1609421033235.html)
 
 
 
