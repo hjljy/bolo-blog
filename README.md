@@ -1,4 +1,4 @@
-<p align="center"><img alt="海加尔金鹰" src="https://image.hjljy.cn/favicon/hjljy.png"></p><h2 align="center">
+<p align="center"><img alt="海加尔金鹰" src="https://image.hjljy.cn/favicon/favicon.png"></p><h2 align="center">
 海加尔金鹰
 </h2>
 
