@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [JAVA判断当前日期是否是工作日，还是节假日](https://www.hjljy.cn/articles/2021/07/27/1627380247688.html)
 * [Java根据Pdf模板生成新的模板](https://www.hjljy.cn/articles/2021/07/22/1626940364152.html)
 * [Oauth2 自定义异常信息返回（springboot无法全局捕获invalid_client，unauthorized，invalid_token）](https://www.hjljy.cn/articles/2021/06/25/1624610094533.html)
 * [Vue3.0开发之整合vue-admin-template模板](https://www.hjljy.cn/articles/2021/06/23/1624418085143.html)
@@ -29,7 +30,6 @@
 * [二零二一，春去夏来](https://www.hjljy.cn/articles/2021/03/31/1617165096477.html)
 * [JAVA 基于Redis的分布式锁](https://www.hjljy.cn/articles/2021/03/05/1614931478736.html)
 * [mybatis-plus max函数，sum函数的使用](https://www.hjljy.cn/articles/2021/02/19/1613730765652.html)
-* [VUEJS前端知识点BUG资料博文(不断更新当中)](https://www.hjljy.cn/articles/2021/01/08/1610099724900.html)
 
 
 
