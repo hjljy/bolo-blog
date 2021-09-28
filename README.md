@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [layui官网下线，江湖再见。](https://www.hjljy.cn/articles/2021/09/27/1632727858388.html)
 * [秋高气爽，出游好时节](https://www.hjljy.cn/articles/2021/09/22/1632304935963.html)
 * [Nginx学习日志（七）上传文件大小限制](https://www.hjljy.cn/articles/2021/09/22/1632296249085.html)
 * [SpringBoot JPA实现SQL中的NOT IN](https://www.hjljy.cn/articles/2021/08/12/1628750762376.html)
@@ -29,7 +30,6 @@
 * [Spring Cloud Alibaba 入门学习笔记第四篇：Gateway路由网关](https://www.hjljy.cn/articles/2021/05/31/1622431497283.html)
 * [Spring Cloud Alibaba 入门学习笔记第三篇：OpenFeign负载均衡调用](https://www.hjljy.cn/articles/2021/05/30/1622363370319.html)
 * [Spring Cloud Alibaba 入门学习笔记第二篇：Nacos注册中心+Loadbalancer负载均衡](https://www.hjljy.cn/articles/2021/05/29/1622257697431.html)
-* [Spring Cloud Alibaba 入门学习笔记第一篇：功能简介+cloud版本关系+项目搭建](https://www.hjljy.cn/articles/2021/05/28/1622186205108.html)
 
 
 
