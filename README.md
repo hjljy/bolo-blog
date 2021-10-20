@@ -1,4 +1,4 @@
-<p align="center"><img alt="海加尔金鹰" src="https://image.hjljy.cn/favicon/hjljy.png"></p><h2 align="center">
+<p align="center"><img alt="海加尔金鹰" src="https://image.hjljy.cn/favicon/favicon.ico"></p><h2 align="center">
 海加尔金鹰
 </h2>
 
@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [SpringBoot定义Freemaker模板的全局变量](https://www.hjljy.cn/articles/2021/10/20/1634698895427.html)
 * [layui官网下线，江湖再见。](https://www.hjljy.cn/articles/2021/09/27/1632727858388.html)
 * [秋高气爽，出游好时节](https://www.hjljy.cn/articles/2021/09/22/1632304935963.html)
 * [Nginx学习日志（七）上传文件大小限制](https://www.hjljy.cn/articles/2021/09/22/1632296249085.html)
@@ -29,7 +30,6 @@
 * [儿童节和儿童](https://www.hjljy.cn/articles/2021/06/01/1622537581543.html)
 * [Spring Cloud Alibaba 入门学习笔记第四篇：Gateway路由网关](https://www.hjljy.cn/articles/2021/05/31/1622431497283.html)
 * [Spring Cloud Alibaba 入门学习笔记第三篇：OpenFeign负载均衡调用](https://www.hjljy.cn/articles/2021/05/30/1622363370319.html)
-* [Spring Cloud Alibaba 入门学习笔记第二篇：Nacos注册中心+Loadbalancer负载均衡](https://www.hjljy.cn/articles/2021/05/29/1622257697431.html)
 
 
 
