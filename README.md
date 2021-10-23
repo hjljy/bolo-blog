@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [Springboot启动后执行方法的四种方式](https://www.hjljy.cn/articles/2021/10/22/1634888560360.html)
 * [SpringBoot定义Freemaker模板的全局变量](https://www.hjljy.cn/articles/2021/10/20/1634698895427.html)
 * [layui官网下线，江湖再见。](https://www.hjljy.cn/articles/2021/09/27/1632727858388.html)
 * [秋高气爽，出游好时节](https://www.hjljy.cn/articles/2021/09/22/1632304935963.html)
@@ -29,7 +30,6 @@
 * [Spring Cloud Gateway 2020.x版本无法注入Feign服务和RestTemplate的问题](https://www.hjljy.cn/articles/2021/06/01/1622539173420.html)
 * [儿童节和儿童](https://www.hjljy.cn/articles/2021/06/01/1622537581543.html)
 * [Spring Cloud Alibaba 入门学习笔记第四篇：Gateway路由网关](https://www.hjljy.cn/articles/2021/05/31/1622431497283.html)
-* [Spring Cloud Alibaba 入门学习笔记第三篇：OpenFeign负载均衡调用](https://www.hjljy.cn/articles/2021/05/30/1622363370319.html)
 
 
 
