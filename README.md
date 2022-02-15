@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [农村自由和城市便利的思考！！！](https://www.hjljy.cn/articles/2022/02/14/1644832925862.html)
 * [开工啦！！开工啦！！](https://www.hjljy.cn/articles/2022/02/10/1644459447142.html)
 * [盘点下那些开源的优秀markdown插件](https://www.hjljy.cn/articles/2021/12/24/1640317140995.html)
 * [【年终总结】2021 年 HJLJY 的摸鱼大事件](https://www.hjljy.cn/articles/2021/12/02/1638413667847.html)
@@ -29,7 +30,6 @@
 * [LocalDate,LocalDateTime获取每周，每月，每年的第一天和最后一天，获取一周七天的日期，获取每月的所有日期](https://www.hjljy.cn/articles/2021/07/29/1627544363904.html)
 * [JAVA判断当前日期是否是工作日，还是节假日](https://www.hjljy.cn/articles/2021/07/27/1627380247688.html)
 * [Java根据Pdf模板生成新的模板](https://www.hjljy.cn/articles/2021/07/22/1626940364152.html)
-* [Oauth2 自定义异常信息返回（springboot无法全局捕获invalid_client，unauthorized，invalid_token）](https://www.hjljy.cn/articles/2021/06/25/1624610094533.html)
 
 
 
