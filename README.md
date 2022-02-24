@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [柬埔寨“血奴”事件和字节员工猝死事件的感伤](https://www.hjljy.cn/articles/2019/01/24/1645686989186.html)
 * [农村自由和城市便利的思考！！！](https://www.hjljy.cn/articles/2022/02/14/1644832925862.html)
 * [开工啦！！开工啦！！](https://www.hjljy.cn/articles/2022/02/10/1644459447142.html)
 * [盘点下那些开源的优秀markdown插件](https://www.hjljy.cn/articles/2021/12/24/1640317140995.html)
@@ -29,7 +30,6 @@
 * [Spring boot @Async注解导致Controller层在实现接口后，请求报404](https://www.hjljy.cn/articles/2021/08/02/1627890819400.html)
 * [LocalDate,LocalDateTime获取每周，每月，每年的第一天和最后一天，获取一周七天的日期，获取每月的所有日期](https://www.hjljy.cn/articles/2021/07/29/1627544363904.html)
 * [JAVA判断当前日期是否是工作日，还是节假日](https://www.hjljy.cn/articles/2021/07/27/1627380247688.html)
-* [Java根据Pdf模板生成新的模板](https://www.hjljy.cn/articles/2021/07/22/1626940364152.html)
 
 
 
