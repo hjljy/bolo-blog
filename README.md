@@ -2,7 +2,7 @@
 海加尔金鹰
 </h2>
 
-<h4 align="center">一个菜鸟程序员的踩坑日记</h4>
+<h4 align="center">天道酬勤，星星之火可以燎原</h4>
 <p align="center"><a title="海加尔金鹰" target="_blank" href="https://github.com/hjljy/bolo-blog"><img src="https://img.shields.io/github/last-commit/hjljy/bolo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/hjljy/bolo-blog"><img src="https://img.shields.io/github/repo-size/hjljy/bolo-blog.svg?style=flat-square"></a>
 <a title="Bolo Version" target="_blank" href="https://github.com/adlered/bolo-solo"><img src="https://img.shields.io/badge/bolo-v2.5 稳定版-f1e05a.svg?style=flat-square&color=blueviolet"></a>
