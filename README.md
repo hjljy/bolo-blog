@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [在springboot中使用synchronized锁失效的问题](https://www.hjljy.cn/articles/2022/03/31/1648698307267.html)
 * [从独生子女政策到婴幼儿照护费用纳入专项扣除的这四十多年！！！](https://www.hjljy.cn/articles/2022/03/29/1648535210584.html)
 * [致那些渐行渐远的伙伴](https://www.hjljy.cn/articles/2022/03/07/1646636580882.html)
 * [柬埔寨“血奴”事件和字节员工猝死事件的感伤](https://www.hjljy.cn/articles/2019/01/24/1645686989186.html)
@@ -29,7 +30,6 @@
 * [SpringBoot JPA实现SQL中的NOT IN](https://www.hjljy.cn/articles/2021/08/12/1628750762376.html)
 * [Docker 一键安装Redis](https://www.hjljy.cn/articles/2021/08/05/1628144199134.html)
 * [记一次让我心惊的信息泄露！！！](https://www.hjljy.cn/articles/2019/01/24/1628049232425.html)
-* [Spring boot @Async注解导致Controller层在实现接口后，请求报404](https://www.hjljy.cn/articles/2021/08/02/1627890819400.html)
 
 
 
