@@ -5,7 +5,7 @@
 <h4 align="center">天道酬勤，星星之火可以燎原</h4>
 <p align="center"><a title="海加尔金鹰" target="_blank" href="https://github.com/hjljy/bolo-blog"><img src="https://img.shields.io/github/last-commit/hjljy/bolo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/hjljy/bolo-blog"><img src="https://img.shields.io/github/repo-size/hjljy/bolo-blog.svg?style=flat-square"></a>
-<a title="Bolo Version" target="_blank" href="https://github.com/adlered/bolo-solo"><img src="https://img.shields.io/badge/bolo-v2.5 稳定版-f1e05a.svg?style=flat-square&color=blueviolet"></a>
+<a title="Bolo Version" target="_blank" href="https://github.com/adlered/bolo-solo"><img src="https://img.shields.io/badge/bolo-v2.4 稳定版-f1e05a.svg?style=flat-square&color=blueviolet"></a>
 <a title="Hits" target="_blank" href="https://github.com/88250/hits"><img src="https://hits.b3log.org/hjljy/bolo-blog.svg"></a></p>
 
 ### 最新
