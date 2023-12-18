@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [阿里云博客服务器迁移记录](https://www.aliuying.com/articles/2023/11/15/1702456313729.html)
 * [DOCKER安装MYSQL8.2.0版本](https://www.aliuying.com/articles/2023/11/15/1702545439826.html)
 * [工作日男性都在干什么呢？](https://www.aliuying.com/articles/2023/10/27/1698399420642.html)
 * [博客大事件！！? 域名切换！服务器切换！博客系统切换？](https://www.aliuying.com/articles/2023/10/11/1697013785834.html)
@@ -29,7 +30,6 @@
 * [几处早莺争暖树，谁家新燕啄春泥](https://www.aliuying.com/articles/2022/04/29/1651217010850.html)
 * [壬寅年清明后记](https://www.aliuying.com/articles/2022/04/07/1649309057931.html)
 * [在springboot中使用synchronized锁失效的问题](https://www.aliuying.com/articles/2022/03/31/1648698307267.html)
-* [从独生子女政策到婴幼儿照护费用纳入专项扣除的这四十多年！！！](https://www.aliuying.com/articles/2022/03/29/1648535210584.html)
 
 
 
