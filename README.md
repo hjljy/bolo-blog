@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [《年会不能停》观后所感](https://www.aliuying.com/articles/2024/01/15/1705312017742.html)
 * [【年终总结】2023年平淡如水的一年](https://www.aliuying.com/articles/2020/12/31/1703584501543.html)
 * [阿里云博客服务器迁移记录](https://www.aliuying.com/articles/2023/11/15/1702456313729.html)
 * [DOCKER安装MYSQL8.2.0版本](https://www.aliuying.com/articles/2023/11/15/1702545439826.html)
@@ -29,7 +30,6 @@
 * [壬寅年端午后记](https://www.aliuying.com/articles/2022/05/12/1654491063951.html)
 * [Springboot应用整合Prometheus+Grafana进行自定义指标监控](https://www.aliuying.com/articles/2022/05/09/1652075818581.html)
 * [几处早莺争暖树，谁家新燕啄春泥](https://www.aliuying.com/articles/2022/04/29/1651217010850.html)
-* [壬寅年清明后记](https://www.aliuying.com/articles/2022/04/07/1649309057931.html)
 
 
 
