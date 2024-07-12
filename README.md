@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [坎坎坷坷的骑行入坑路](https://www.aliuying.com/articles/2024/07/11/1720685338361.html)
 * [闲暇日记--吃喝玩乐大半年](https://www.aliuying.com/articles/2024/06/24/1719213971808.html)
 * [格外寒冷的冬季，年前的最后一天](https://www.aliuying.com/articles/2024/02/06/1707205353743.html)
 * [《年会不能停》观后所感](https://www.aliuying.com/articles/2024/01/15/1705312017742.html)
@@ -29,7 +30,6 @@
 * [夏日有艳阳，有蝉鸣，还有加班和疫情](https://www.aliuying.com/articles/2022/08/01/1659322864162.html)
 * [Linux下安装Mysql8.0](https://www.aliuying.com/articles/2022/07/02/1656756301397.html)
 * [品一品花生，思一思儿时](https://www.aliuying.com/articles/2022/06/30/1656580359351.html)
-* [壬寅年端午后记](https://www.aliuying.com/articles/2022/05/12/1654491063951.html)
 
 
 
