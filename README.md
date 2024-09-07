@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [第一次裁员，仲裁与赔偿————难得的经历](https://www.aliuying.com/articles/2024/09/06/1725610677056.html)
 * [生日，生日，忘记了很多人的生日](https://www.aliuying.com/articles/2024/07/15/1721037154579.html)
 * [坎坎坷坷的骑行入坑路](https://www.aliuying.com/articles/2024/07/11/1720685338361.html)
 * [闲暇日记--吃喝玩乐大半年](https://www.aliuying.com/articles/2024/06/24/1719213971808.html)
@@ -29,7 +30,6 @@
 * [清晨梦醒，思家！！！](https://www.aliuying.com/articles/2022/10/12/1665565415196.html)
 * [不平凡的四十二天，漫长而焦急。](https://www.aliuying.com/articles/2022/09/16/1663300740450.html)
 * [夏日有艳阳，有蝉鸣，还有加班和疫情](https://www.aliuying.com/articles/2022/08/01/1659322864162.html)
-* [Linux下安装Mysql8.0](https://www.aliuying.com/articles/2022/07/02/1656756301397.html)
 
 
 
