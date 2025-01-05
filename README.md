@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [失眠辗转，迷茫中](https://www.aliuying.com/articles/2025/01/05/1736034203325.html)
 * [甲辰龙年——倦鸟归巢，游子归乡](https://www.aliuying.com/articles/2024/12/27/1735294573404.html)
 * [第一次裁员，仲裁与赔偿————难得的经历](https://www.aliuying.com/articles/2024/09/06/1725610677056.html)
 * [生日，生日，忘记了很多人的生日](https://www.aliuying.com/articles/2024/07/15/1721037154579.html)
@@ -29,7 +30,6 @@
 * [【年终总结】2022年HJLJY的人生历程](https://www.aliuying.com/articles/2023/01/03/1672726816292.html)
 * [归家闲记](https://www.aliuying.com/articles/2022/11/14/1668418043537.html)
 * [清晨梦醒，思家！！！](https://www.aliuying.com/articles/2022/10/12/1665565415196.html)
-* [不平凡的四十二天，漫长而焦急。](https://www.aliuying.com/articles/2022/09/16/1663300740450.html)
 
 
 
