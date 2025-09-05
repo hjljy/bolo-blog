@@ -5,10 +5,10 @@
 <h4 align="center">天道酬勤，星星之火可以燎原</h4>
 <p align="center"><a title="弋钓草野" target="_blank" href="https://github.com/hjljy/bolo-blog"><img src="https://img.shields.io/github/last-commit/hjljy/bolo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/hjljy/bolo-blog"><img src="https://img.shields.io/github/repo-size/hjljy/bolo-blog.svg?style=flat-square"></a>
-<a title="Bolo Version" target="_blank" href="https://github.com/adlered/bolo-solo"><img src="https://img.shields.io/badge/bolo-v2.6 稳定版-f1e05a.svg?style=flat-square&color=blueviolet"></a>
+<a title="Bolo Version" target="_blank" href="https://github.com/adlered/bolo-solo"><img src="https://img.shields.io/badge/bolo-v2.6.4 稳定版-f1e05a.svg?style=flat-square&color=blueviolet"></a>
 <a title="Hits" target="_blank" href="https://github.com/88250/hits"><img src="https://hits.b3log.org/hjljy/bolo-blog.svg"></a></p>
 
-### 最新
+### Latest Blog Posts:
 
 * [迟到的半年小记](https://www.aliuying.com/articles/2025/07/08/1751979433188.html)
 * [失眠辗转，迷茫中](https://www.aliuying.com/articles/2025/01/05/1736034203325.html)
@@ -30,9 +30,10 @@
 * [初九开工，万事大吉](https://www.aliuying.com/articles/2023/01/30/1675060268535.html)
 * [【年终总结】2022年HJLJY的人生历程](https://www.aliuying.com/articles/2023/01/03/1672726816292.html)
 * [归家闲记](https://www.aliuying.com/articles/2022/11/14/1668418043537.html)
+* [More](https://www.aliuying.com)
 
 
 
 ---
 
-本仓库通过 [Bolo](https://github.com/adlered/bolo-solo) 自动进行同步更新 ❤️ 
+本仓库通过 [Bolo](https://github.com/bolo-blog/bolo-solo) 自动进行同步更新 ❤️ 
