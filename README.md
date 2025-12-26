@@ -10,6 +10,7 @@
 
 ### Latest Blog Posts:
 
+* [乙巳蛇年——烟火慰我心，养儿方知难](https://www.aliuying.com/articles/2025/12/25/1766662232099.html)
 * [迟到的半年小记](https://www.aliuying.com/articles/2025/07/08/1751979433188.html)
 * [失眠辗转，迷茫中](https://www.aliuying.com/articles/2025/01/05/1736034203325.html)
 * [甲辰龙年——倦鸟归巢，游子归乡](https://www.aliuying.com/articles/2024/12/27/1735294573404.html)
@@ -29,7 +30,6 @@
 * [癸卯年五月，金黄的五星大枇杷](https://www.aliuying.com/articles/2023/05/05/1683273988045.html)
 * [初九开工，万事大吉](https://www.aliuying.com/articles/2023/01/30/1675060268535.html)
 * [【年终总结】2022年HJLJY的人生历程](https://www.aliuying.com/articles/2023/01/03/1672726816292.html)
-* [归家闲记](https://www.aliuying.com/articles/2022/11/14/1668418043537.html)
 * [More](https://www.aliuying.com)
 
 
